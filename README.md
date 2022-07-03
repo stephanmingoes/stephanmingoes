@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Stephan</h1>
 <h3 align="center">A passionate Software Developer from Jamaica 🏝️😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephanmingoes&label=Profile%20views&color=0e75b6&style=flat" alt="stephanmingoes" /> </p>
+- 🌱 I’m currently learning - **Amazon Web Services**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanmingoes" alt="stephanmingoes" /></a> </p>
+- 📫 How to reach me - **stephanmingoes@gmail.com**
 
-- 🌱 I’m currently learning **AWS**
+- 📄 Know about my experiences - [Resume](https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf)
 
-- 📫 How to reach me **stephanmingoes@gmail.com**
+- ⚡ Fun fact - **I can time travel but I choose not to.**
 
-- 📄 Know about my experiences [https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf](https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf)
-
-- ⚡ Fun fact **I can time travel but I choose not to.**
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanmingoes&show_icons=true&locale=en" alt="stephanmingoes" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stephanmingoes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stephanmingoes" height="30" width="40" /></a>
@@ -28,6 +25,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stephanmingoes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stephanmingoes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanmingoes&show_icons=true&locale=en&layout=compact" alt="stephanmingoes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanmingoes&show_icons=true&locale=en" alt="stephanmingoes" /></p>
