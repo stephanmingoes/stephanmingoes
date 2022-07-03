@@ -8,7 +8,7 @@
 
 - 📫 How to reach me - **stephanmingoes@gmail.com**
 
-- 📄 Know about my experiences - [https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf](https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf)
+- 📄 Know about my experiences - [Resume](https://www.stephanmingoes.me/static/media/Stephan-Mingoes-resume-pdf.4db343a8b1537c4e04d7.pdf)
 
 - ⚡ Fun fact - **I can time travel but I choose not to.**
 
