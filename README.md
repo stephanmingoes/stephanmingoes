@@ -1,6 +1,8 @@
+![Logo](https://raw.githubusercontent.com/stephanmingoes/stephanmingoes/main/sm2.png)
 <h1 align="center">Hi 👋, I'm Stephan</h1>
-![Logo](https://raw.githubusercontent.com/stephanmingoes/stephanmingoes/main/%7BSM%7D%20(6).png)
 <h3 align="center">A passionate Software Developer from Jamaica 🏝️😎</h3>
+
+
 
 - 🌱 I’m currently learning - **Amazon Web Services**
 
