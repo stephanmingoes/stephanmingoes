@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm Stephan</h1>
-<h3 align="center">Software Developer</h3>
+<!-- <h3 align="center">Software Developer</h3> -->
 
 # 💫 About Me:
 📫 How to reach me - **stephanmingoes@gmail.com**<br><br>📄 Know about my experiences - [Resume](https://github.com/stephanmingoes/stephanmingoes/blob/main/Stephan%20Mingoes%20Resume.pdf)<br><br>🌱 I’m currently learning - **Amazon Web Services**
